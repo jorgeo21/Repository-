@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Build outputs
+/build/
+/out/
+/target/
+/bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
